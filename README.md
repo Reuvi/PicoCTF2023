@@ -10,7 +10,7 @@ Writeup for the PicoCTF2023 competition.
 <h1>Challenges</h1>
 <h4>Binary Exploitation</h4>
 <ul>
-<li><a href="https://github.com/Reuvi/PicoCTF2023/blob/main/Binary%20Exploitation/babygame01/babygame01.md">babygame01 (100)</a></li>
+<li><a href="https://github.com/Reuvi/PicoCTF2023/tree/main/Binary%20Exploitation/babygame01">babygame01 (100)</a></li>
 <li><a href="https://github.com/Reuvi/PicoCTF2023/tree/main/Binary%20Exploitation/two-sum">two-sum (100)</a></li>
 <li>VNE (200)</li>
 <li>tic-tac (200) </li>
